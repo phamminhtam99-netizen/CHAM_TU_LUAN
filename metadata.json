@@ -1,0 +1,7 @@
+{
+  "name": "23. CHẤM BÀI TỰ LUẬN _ nhiều ảnh",
+  "description": "Ứng dụng chấm bài tự luận thông minh sử dụng AI Gemini. Hỗ trợ tải tệp đáp án, bài làm của học sinh (ảnh/PDF) và xuất kết quả chi tiết dưới dạng bảng hoặc CSV.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
